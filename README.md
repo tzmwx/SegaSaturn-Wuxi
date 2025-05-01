@@ -1,9 +1,13 @@
 # Wuxi
 SEGA SATURN ODE/CD SWITCHER
 世嘉土星光驱通道切换器
-商业使用时不能修改PCB和文字标识
-商业使用时不能修改PCB和文字标识
-商业使用时不能修改PCB和文字标识
+
+# 商业使用时不能修改PCB和文字标识
+
+# 商业使用时不能修改PCB和文字标识
+
+# 商业使用时不能修改PCB和文字标识
+
 ![IMG_1346](https://github.com/user-attachments/assets/87a86e58-7446-4da5-a40e-53ccefaf4499)
 ![IMG_1352](https://github.com/user-attachments/assets/8a4a5acc-0f4e-407e-b5a0-dd016d1c7053)
 ![IMG_1350](https://github.com/user-attachments/assets/b606b7a4-dc6e-4230-89f6-6d13aeb06621)
